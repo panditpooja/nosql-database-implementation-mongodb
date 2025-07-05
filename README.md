@@ -1,5 +1,9 @@
 # NoSQL Database Design Project – Phase 3 (MongoDB Implementation)
 
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 This project demonstrates the **NoSQL implementation** of a healthcare database system using **MongoDB**, reimagining the relational model from [Phase 1](https://github.com/panditpooja/data-modeling-relational-database-sql) and [Phase 2](https://github.com/panditpooja/relational-database-sql-implementation).  
 
 Instead of a normalized relational schema, this phase applies **document-oriented modeling principles** to design a denormalized structure suitable for MongoDB. It showcases key NoSQL concepts such as aggregate boundaries, flexible schema design, and analytics using aggregation pipelines.
