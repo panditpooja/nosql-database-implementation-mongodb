@@ -1,8 +1,8 @@
 # NoSQL Database Design Project – Phase 3 (MongoDB Implementation)
 
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![JSON](https://img.shields.io/badge/Data-JSON-blue?logo=json&logoColor=white)](https://www.json.org/)
 
 This project demonstrates the **NoSQL implementation** of a healthcare database system using **MongoDB**, reimagining the relational model from [Phase 1](https://github.com/panditpooja/data-modeling-relational-database-sql) and [Phase 2](https://github.com/panditpooja/relational-database-sql-implementation).  
 
